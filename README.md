@@ -7,11 +7,13 @@ nshot 2023-11-27 143558](https://github.com/Mohjamoutawadii/tp_jsf/assets/130287
 
 ## Gestion des employes
 ## Ajout d'un employe:
-![Screenshot 2023-11-27 143234](https://github.com/Mohjamoutawadii/tp_jsf/assets/130287795/2f41291d-5dad-4398-91a7-4566d78a9acd)
+![Screenshot 2023-11-27 144933](https://github.com/Mohjamoutawadii/tp_jsf/assets/130287795/55d27978-c1c6-4b53-9785-911ca2f4b095)
+
 ![Screenshot 2023-11-27 143426](https://github.com/Mohjamoutawadii/tp_jsf/assets/130287795/3e12220d-22cf-4768-a4f9-2b2256072225)
 
 ## Liste des employees:
-![Screenshot 2023-11-27 143440](https://github.com/Mohjamoutawadii/tp_jsf/assets/130287795/518e7dde-9599-49ec-91eb-317ae4dd9928)
+![Screenshot 2023-11-27 144918](https://github.com/Mohjamoutawadii/tp_jsf/assets/130287795/38a96345-7f58-4eaf-bc06-de93321400e1)
+
 
 ## Gestion des Services
 ## Ajout d'un service:
