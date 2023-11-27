@@ -1,17 +1,28 @@
-# JSF
-## Authentification
-![Capture d’écran (8)](https://github.com/WiamMerjane/JSF/assets/116950948/e0acdcd8-9df6-406b-b151-017cfdaea28b)
+# Tp_JSF
+## Connexion
+![Scree![Screenshot 2023-11-27 143440](https://github.com/Mohjamoutawadii/tp_jsf/assets/130287795/244a4d6f-a7b2-46bf-bfbe-0fb25f226cb2)
+nshot 2023-11-27 143558](https://github.com/Mohjamoutawadii/tp_jsf/assets/130287795/41ad7fd4-3fd2-41f0-bc5d-6a5c524729bf)
+![Screenshot 2023-11-27 143534](https://github.com/Mohjamoutawadii/tp_jsf/assets/130287795/96af8efb-9431-41ba-8dd2-c581af7be42a)
+
 
 ## Gestion des employes
-### Ajout des employes
-![Capture d’écran (9)](https://github.com/WiamMerjane/JSF/assets/116950948/67906b9d-7244-4d2c-9751-e5049d3de4f8)
-![Capture](https://github.com/WiamMerjane/JSF/assets/116950948/41d4c05d-11fd-46be-a92b-1ba5bbf217bb)
+## Ajout d'un employe:
+![Screenshot 2023-11-27 143234](https://github.com/Mohjamoutawadii/tp_jsf/assets/130287795/2f41291d-5dad-4398-91a7-4566d78a9acd)
+![Screenshot 2023-11-27 143426](https://github.com/Mohjamoutawadii/tp_jsf/assets/130287795/3e12220d-22cf-4768-a4f9-2b2256072225)
 
-### La liste des employes
-![Capture d’écran (13)](https://github.com/WiamMerjane/JSF/assets/116950948/7f495ea7-2962-439a-882a-c80ae409102d)
-![Capture d’écran (14)](https://github.com/WiamMerjane/JSF/assets/116950948/be54dd8c-3f23-4d24-ac74-b9d81d01f172)
+## Liste des employees:
+![Screenshot 2023-11-27 143440](https://github.com/Mohjamoutawadii/tp_jsf/assets/130287795/518e7dde-9599-49ec-91eb-317ae4dd9928)
 
-## Gestion des services
+## Gestion des Services
+## Ajout d'un service:
+![Screenshot 2023-11-27 143456](https://github.com/Mohjamoutawadii/tp_jsf/assets/130287795/afdf4656-b778-46e4-bb9e-05d9ffecfd94)
+![Screenshot 2023-11-27 143547](https://github.com/Mohjamoutawadii/tp_jsf/assets/130287795/84e0b6d0-95f0-4718-a385-ef51a1ed4586)
 
-![Capture d’écran (15)](https://github.com/WiamMerjane/JSF/assets/116950948/9d5d46fa-f1ce-4b4a-9b31-b80b9a52bc52)
-![Capture d’écran (16)](https://github.com/WiamMerjane/JSF/assets/116950948/60dd2543-3f96-4aa1-8f4c-927557fbaa6d)
+
+
+## Nombre des employes par Service
+![Screenshot 2023-11-27 143505](https://github.com/Mohjamoutawadii/tp_jsf/assets/130287795/36883676-1617-4f06-aca8-f749badaf0b2)
+
+
+
+
